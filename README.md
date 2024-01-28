@@ -1,21 +1,33 @@
-# Flashcard App
+# Overview
 
-This Flutter application is a simple flashcard app that allows users to create flashcards to help them study. Users can add flashcards with questions and answers, view all flashcards, mark flashcards as favorites, and view their favorite flashcards separately.
+This project is a Flashcard App developed as a learning exercise to further my skills as a software engineer. The app allows users to create flashcards for studying purposes, view all flashcards, mark flashcards as favorites, and view favorite flashcards separately.
 
-## Features
+## Description
 
-- Add new flashcards with questions and answers
-- View all flashcards
-- Mark flashcards as favorites
-- View favorite flashcards separately
-- Toggle between showing the question and revealing the answer on tap
+The Flashcard App is a simple Flutter application. Users can add new flashcards by providing a question and an answer. They can then view all flashcards and tap on a flashcard to toggle between showing the question and revealing the answer. Additionally, users can mark flashcards as favorites and view their favorite flashcards separately.
 
-## Usage
+### Purpose
 
-1. Clone this repository to your local machine.
-2. Open the project in a Flutter development environment (e.g., Android Studio, VS Code).
-3. Run the project on an emulator or a physical device.
+The purpose of creating this app is to gain hands-on experience with Flutter development, improve my understanding of state management in Flutter applications, and practice building a user interface with interactive elements.
 
-## Contributions
+[Software Demo Video](http://youtube.link.goes.here)
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+# Development Environment
+
+The Flashcard App was developed using the following tools:
+- Flutter SDK
+- Dart programming language
+- Visual Studio Code (IDE)
+
+# Useful Websites
+
+Here are some websites that I found helpful during the development of this project:
+* [Flutter Documentation](https://flutter.dev/docs)
+* [Dart Documentation](https://dart.dev/guides)
+
+# Future Work
+
+There are several improvements and additions planned for the future:
+* Add support for editing and deleting flashcards
+* Implement data persistence to save flashcards between app sessions
+* Improve UI/UX design for a better user experience
