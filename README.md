@@ -1,16 +1,30 @@
-# flashcardapp
+# Flashcard App
 
-A new Flutter project.
+This Flutter application is a simple flashcard app that allows users to create flashcards to help them study. Users can add flashcards with questions and answers, view all flashcards, mark flashcards as favorites, and view their favorite flashcards separately.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new flashcards with questions and answers
+- View all flashcards
+- Mark flashcards as favorites
+- View favorite flashcards separately
+- Toggle between showing the question and revealing the answer on tap
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repository to your local machine.
+2. Open the project in a Flutter development environment (e.g., Android Studio, VS Code).
+3. Run the project on an emulator or a physical device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+[Add screenshots here if available]
+
+## Contributions
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+[License information here]
+
