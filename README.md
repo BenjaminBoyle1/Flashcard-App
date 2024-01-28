@@ -16,15 +16,6 @@ This Flutter application is a simple flashcard app that allows users to create f
 2. Open the project in a Flutter development environment (e.g., Android Studio, VS Code).
 3. Run the project on an emulator or a physical device.
 
-## Screenshots
-
-[Add screenshots here if available]
-
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-[License information here]
-
